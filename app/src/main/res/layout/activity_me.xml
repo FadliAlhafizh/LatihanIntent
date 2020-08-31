@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Grey">
+
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="80dp"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/kakang"/>
+        <View
+            android:layout_width="20dp"
+            android:layout_height="match_parent"
+            android:background="@color/FireBrick"/>
+        <View
+            android:layout_width="20dp"
+            android:layout_height="match_parent"
+            android:background="@color/FireBrick"
+            android:layout_gravity="right"/>
+
+    </FrameLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="M. Fadli Alhafizh W"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:layout_below="@+id/frame"
+        android:layout_marginTop="50dp"
+        android:textColor="@color/yellow"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="XII-RPL 3"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:layout_below="@+id/frame"
+        android:layout_marginTop="100dp"
+        android:textColor="@color/yellow"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SMKN 4 Bandung"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:layout_below="@+id/frame"
+        android:layout_marginTop="150dp"
+        android:textColor="@color/yellow"/>
+</RelativeLayout>

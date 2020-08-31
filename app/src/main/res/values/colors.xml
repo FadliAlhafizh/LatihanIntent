@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="SlateGrey">#2F4F4F</color>
+    <color name="Gold">#FFD700</color>
+    <color name="DarkBlue">#00008B</color>
+    <color name="FireBrick">#B22222</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="Chocolate">#d2691e</color>
+    <color name="DarkOliveGreen">#556b2f</color>
+    <color name="Gainsboro">#dcdcdc</color>
+    <color name="GoldenRod">#daa520</color>
+    <color name="DarkGray">#a9a9a9</color>
+    <color name="AquaMarine">#7fffd4</color>
+    <color name="Brown">#a52a2a</color>
+    <color name="Coral">#ff7f50</color>
+    <color name="DarkSeaGreen">#8fbc8f</color>
+    <color name="bagus">#9af876</color>
+    <color name="Charteuse">#7fff00</color>
+    <color name="Crimson">#dc143c</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Grey">#808080</color>
+    <color name="Blue">#1228bb</color>
+    <color name="Black">#000000</color>
+    <color name="OldBrown">#581845</color>
+    <color name="OldMaroon">#900c3f</color>
+    <color name="yellow">#ffc300</color>
+    <color name="Marron">#c70039</color>
+    <color name="Sky">#cceeff</color>
+    <color name="YoungBlue">#0fafc5</color>
+    <color name="BlueViolet">#215</color>
+    <color name="BlueDrip">#215990</color>
+</resources>
